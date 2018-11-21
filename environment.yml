@@ -1,0 +1,8 @@
+name: env-from-yaml
+channels:
+- pytorch
+dependencies:
+- python=3.6
+- numpy
+- pytorch # unused
+- pytest
